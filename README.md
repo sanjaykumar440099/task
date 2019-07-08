@@ -3,9 +3,21 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
 
 ## Development server
-Clone and run `npm install` to install all the dependencies.
+Install node version 8 and above
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Install npm v 6
+
+Go to project folder and
+
+Run `npm install` to install all the dependencies.
+
+After successfull install 
+
+Run `npm buil --prod` to build in production, after successfull build
+
+Run `npm start` for a dev server. 
+
+Run this url in the browser `http://localhost:8080/`.
 
 ## Code scaffolding
 
