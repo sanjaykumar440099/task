@@ -1,0 +1,22 @@
+<div class="col-md-6 offset-md-3">
+    <div class="box box-default">
+        <div class="row form-group" *ngFor="let ip of ipList; let i = index; last as isLast">
+            <div class="col-md-10">
+                <div class="form-group">
+                    <label for="email">{{ip?.ipName}} ({{i + 1}}):</label>
+                    <input type="text" class="form-control" [(ngModel)]="ip.ipValue" required [pattern]="pattern" (input)="onMatchChange(ip.ipValue, i)">
+                    <span *ngIf="indexNumber === i" class="error-message">{{indexMessage}}</span>
+                </div>
+            </div>
+
+            <div class="col-md-1">
+                <span class="action_icon" (click)="deleteIpFeild(i)">-</span>
+
+            </div>
+            <div class="col-md-1">
+                <span class="action_icon" (click)="addIpFeild()" *ngIf="isLast">+</span>
+            </div>
+        </div>
+        <button type="button" class="btn btn-default" [routerLink]="['user']" style="margin-right:40px;">Back</button>
+        <button type="button" class="btn btn-primary" (click)="saveUser()" [disabled]="buttonDisabled">Save</button>
+    </div>

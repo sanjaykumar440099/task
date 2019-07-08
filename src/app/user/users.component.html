@@ -1,0 +1,15 @@
+<div class="col-md-4 offset-md-4">
+    <div class="box box-default">
+        <div class="form-group">
+            <label for="sel1">Select type of user:</label>
+            <select class="form-control" id="data" [(ngModel)]="data">
+                <option *ngFor="let user of userList" [ngValue]="user.id">
+                 {{user.value}}
+                </option>
+                <option [ngValue]="select">Please Select</option>
+           </select>
+        </div>
+
+        <button type="button" class="btn btn-primary" (click)="submitUser(data)">Submit</button>
+    </div>
+</div>
