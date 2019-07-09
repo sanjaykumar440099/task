@@ -20,6 +20,7 @@ export class UserDetailsComponent implements OnInit {
   buttonDisabled: boolean;
   indexMessage: string;
   indexNumber: any;
+  savingList : Array<Object>;
 
   ngOnInit() {
     this.userType = this.route.snapshot.params['userId'];
@@ -94,7 +95,17 @@ export class UserDetailsComponent implements OnInit {
 
   //save data to local storage
   public saveUser() {
-    localStorage.setItem('ipData', JSON.stringify(this.ipList));
+	  this.savingList = [];
+	  this.ipList.forEach(values => {
+		  if(values.ipValue !== ''){
+			  var newList = {
+				  ipName: values.ipName,
+				  ipValue: values.ipValue
+			  };
+			this.savingList.push(newList);
+		  };
+	  });
+    localStorage.setItem('ipData', JSON.stringify(this.savingList));
     Swal.fire({
       type: 'success',
       title: 'Data saved successfully...',
