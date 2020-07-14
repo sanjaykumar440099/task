@@ -1,0 +1,644 @@
+{
+	"menu": {
+	   "logMenu": "تسجيل الدخول",
+	   "account" :"حسابي",
+	   "order" :"طلباتي", 
+	   "home": "الصفحة الرئيسية", 
+	   "fav": "أفضله",
+	   "prod": "جميع المنتجات",
+	   "noProd": "لم يجد منتجك",
+	   "contact": "اتصل بنا",
+	   "earn": "كسب المكافأة",
+	   "faq": "التعليمات",
+	   "down": "تحميل التطبيق",
+	   "lang": "لغة",
+	   "logout" : "تسجيل خروج",
+	   "shareCode": "شارك كود الأصدقاء"
+	},
+	"language" : {
+		"eng" : "الإنجليزية",
+		"arabic" : "عربى",
+		"select_language": "Select your native language"
+	},
+    "home": {
+		"flashLabel": "بيع مفاجئ",
+	    "topLabel": "أهم المنتجات",
+		"shopLabel": "تسوق حسب الاقسام",
+		"offer": "عروض عروض"
+	},
+	"notifications":{
+		"notification": "لا توجد إشعارات متاحة"
+	},
+	"story":{
+		"paragraph1": "يتم صيد معظم الأسماك المتاحة في السوق اليوم بواسطة سفن الصيد الآلية الكبيرة الموجودة في البحر في أي مكان بين ثلاثة أيام إلى ثلاثة أشهر",
+		"paragraph2": "في الوقت الذي تصل فيه سفينة الصيد إلى الساحل ، يمكن أن يكون عمر الأسماك من ثلاثة أسابيع إلى 3 أشهر ومجمدة بالفعل.",
+		"paragraph3": "يتم شراء هذه السمكة من قبل تاجر بيع كامل يقوم بعد ذلك بتزويد الأسماك إلى عدة مدن برا ، حتى 4 قفزات قبل وصولها إلى المستهلك.",
+		"paragraph4": "ضمان بقاء الأسماك طازجة ، فإن الممارسة المعتادة بين معظم موردي الأسماك الهنود هي تطبيق مواد كيميائية مثل الأمونيا أو الكلور أو الفورمالين في الأسماك (نعم - نفس الفورمالين المستخدم للحفاظ على الجثث في المشرحة!) <br/> يتيح نسمي هذه السمكة 'شيم-فيش' الآن.",
+		"paragraph5Header": "ما هو الخطأ فيشيم-فيش؟",
+		"paragraph5": "هناك دراسات كافية تظهر أن المواد الكيميائية لها تأثيرات صحية ضارة طويلة المدى. أيضًا ، عندما تكون أسماكك قديمة جدًا ، يمكن أن تؤدي إلى التسمم الغذائي غير المتوقع والحساسية وحتى الأمراض الخطيرة. وفوق كل شيء ، ليس السمك عندما تكون قديمة وملوثة بالمواد الكيميائية!",
+		"paragraph6Header":"لماذا فريش تو هوم؟",
+		"paragraph6a": "- نشتري مباشرة من المزارعين أو الصيادين",
+		"paragraph6b": "- لا الأمونيا أو ضمان الفورمالين للأسماك",
+		"paragraph6c": "- لا يوجد مضادات حيوية أو ضمان هرموني للحوم",
+		"paragraph6d": "- التسليم على عتبة داركم",
+		"paragraph6e": "- أفضل مذاق اللحوم في المدينة",
+		"paragraph6f": "- نحن طازجة أو أحرار!"
+	},
+	"account_b2b":{
+		"mobile" : "التليفون المحمول",
+		"email": "البريد الإلكتروني",
+		"credit_limit": "الحد الائتماني",
+		"credit_available":"الائتمان المتاح",
+		"recent_orders": "الطلبيات الأخيرة",
+		"order": "طلب",
+		"order_total": "الطلب الكلي",
+		"pending_payment": "في انتظار الدفع",
+		"no_order": "لا توجد أوامر متاحة."
+	},
+	"account": {
+		"view_transactions": "عرض المعاملات",
+		"View_T_C": "عرض الشروط والأحكام",
+		"recent_referrals": "الإحالات الأخيرة",
+		"all_referrals": "عرض جميع الإحالات",
+		"referred": "محالة",
+		"coupon": "قسيمة",
+		"expiry": "انقضاء",
+		"no_referral": "لا توجد إحالات متاحة."
+	},
+	"credit": {
+		"available_balance": "الرصيد المتوفر",
+		"expires_on": "تنتهي صلاحيته في"
+	},
+	"order_issue": {
+		"issue": "الرجاء اختيار المشكلة التي تواجهها",
+		"missing_item": "يرجى تحديد العناصر المفقودة من طلبك:",
+		"poor_quality": "الرجاء تحديد العناصر ذات الجودة الرديئة:",
+		"query_feedback": "الاستفسارات والملاحظات",
+		"reach_out": "للاستفسارات والملاحظات ، تواصل معنا:"
+	},
+	"order_track": {
+		"placed_at": "تاريخ النشر",
+		"view_summary": "عرض ملخص الطلب"
+	},
+	"order_list": {
+		"refresh_order": "تحديث الأوامر",
+		"no_order": "لا توجد أوامر متاحة."
+	},
+	"order_summary": {
+		"order": "طلب",
+		"parent": "الأبوين",
+		"delivery_on": "التسليم في",
+		"order_details": "تفاصيل الطلب",
+		"ordered_on": "أمر على",
+		"phone_number": "رقم الهاتف",
+		"deliver_to": "يسلم إلى"
+	},
+	"order": {
+		"address": "عنوان",
+		"shipping_method": "طريقة الشحن",
+		"payment_method": "طريقة الدفع او السداد",
+		"items_ordered": "العناصر المطلوبة",
+		"price": "السعر",
+		"qty": "الكمية",
+		"subtotal": "المجموع الفرعي",
+		"shipping_handling": "شحن وتسليم",
+		"gst": "GST",
+		"discount": "خصم",
+		"grand_total": "المبلغ الإجمالي"
+	},
+	"orders": {
+		"refresh_orders": "تحديث الأوامر",
+		"ship_to": "سافر على متن سفينة ل",
+		"order_total": "الطلب الكلي"
+	},
+	"referrals": {
+		"customer_referred": "أشار العميل",
+		"coupon_code": "رمز الكوبون",
+		"coupon_status": "حالة القسيمة",
+		"expiry": "انقضاء"
+	},
+	"subscription": {
+		"wallet": "محفظة نقود",
+		"active_subscriptions": "اشتراكات نشطة",
+		"paused_subscriptions": "اشتراكات متوقفة مؤقتًا",
+		"expired_subscriptions": "الاشتراكات منتهية الصلاحية",
+		"cancelled_subscriptions": "الاشتراكات الملغاة",
+		"no_subscription": "لم يتم العثور على اشتراك",
+		"not_subscribed": "أنت غير مشترك في أي من منتجاتنا. يرجى النقر أدناه لرؤية قائمة العناصر التي يمكنك الاشتراك فيها.",
+		"continue_shopping": "مواصلة التسوق"
+	},
+	"cart" :{
+		"advance_booking": "Advance Booking Cart",
+		"no_items": "There are no items in your cart.",
+		"load_cart": "Loading cart...",
+		"your_cart": "Your Cart",
+		"more_item": "More items you add, more discount you get!",
+		"free_ship": "away from FREE SHIPPING",
+		"unlock_ship": "You have unlocked FREE SHIPPING",
+		"eligible_ship": "You are eligible for FREE shipping",
+		"standard_delivery": "Standard Delivery Only",
+		"standard_express": "Standard & Express Delivery",
+		"only_express": "Express Delivery Only",
+		"current_delivery": "Currently Standard delivery not available",
+		"current_delivery_express": "Currently Express Delivery is not available",
+		"product_outof_stock": "This product has gone out of stock and will be removed from the cart",
+		"you_may": "You may",
+		"also": "also",
+		"like": "like",
+		"empty_cart": "Empty Cart",
+		"subtotal": "Subtotal:"
+	},
+	"delivery": {
+		"empty_cart": "Your shopping cart is empty.",
+		"continue_shopping": "Continue Shopping",
+		"delivery_date": "Select a delivery date",
+		"select_optoin": "Select Delivery Option",
+		"default_option": "Default Delivery Option",
+		"standard_delivery": "STANDARD DELIVERY",
+		"1_shipment": "1 Shipment",
+		"all_standadrd_delevery": "Get all items through Standard delivery.",
+		"delivery_slot": "Select delivery slot",
+		"delivery_charge": "*Delivery charge:",
+		"option_1": "Delivery Option 1",
+		"option_2": "Delivery Option 2",
+		"faster_delivery": "FASTER DELIVERY",
+		"2_shipments": "2 Shipments",
+		"ship_1": "Shipment 1: Get",
+		"ship_2": "Shipment 2: Get",
+		"out_of": "out of",
+		"items_standard": "items through Standard delivery.",
+		"all_items": "Get all items in",
+		"items_in": "items in",
+		"no_extra": "*No extra delivery charge",
+		"delivery": "Delivery Options",
+		"express_delivery": "Get all items through Standard delivery or Express delivery."
+	},
+	"product":{
+		"sold_out": "Unfortunately this product got sold out",
+		"load_product": "Loading product...",
+		"express_delivery": "Express Delivery Available",
+		"choose_cut": "Choose your cut",
+		"cart_quantity": "Quantity in Cart",
+		"add_cart": "Add to Cart",
+		"gross_wt": "Gross wt. approx:",
+		"kg": "Kg",
+		"digit": "0.0",
+		"total_price": "Total Price",
+		"for_you": "Price for you",
+		"approximately": "Approximately",
+		"product_need": "Kg of Whole product is needed to get",
+		"kg_of": "Kg of",
+		"factoring_wastage": "factoring in wastage",
+		"product_price": "Whole product price:",
+		"product_required": "Whole product required:",
+		"wastage": "Wastage:",
+		"final_weight": "Final weight:",
+		"final_price": "Final price:",
+		"quantity": "Quantity",
+		"start_from": "Start From",
+		"noOf_deliveries": "No of Deliveries",
+		"to_wallet": "to wallet"
+	},
+	"products":{
+		"fish": "Fish",
+		"poultry": "Poultry",
+		"mutton": "Mutton",
+		"steaks": "Steaks",
+		"marinated": "Marinated",
+		"vegetables": "Vegetables",
+		"all": "All",
+		"express_delivery": "Express Delivery",
+		"off": "% OFF",
+		"select": "SELECT",
+		"today_deal": "Today's deals have sold out!",
+		"check_tomorrow": "Please check back tomorrow for new deals.",
+		"no_products": "No available products",
+		"no_match": "No matching products",
+		"showing_express": "Showing only Express products"
+	},
+	"review":{
+		"place_order": "Place Order",
+		"qty": "Qty",
+		"standard_delivery": "Standard Delivery",
+		"shipping_option": "Please choose a shipping option",
+		"bill_details": "Bill Details",
+		"you_save": "You are saving",
+		"this_order": "on this order",
+		"coupon_applied": "Coupon applied",
+		"select_payment_method": "Select a Payment Method",
+		"only_cash_delivery": "Only cash on delivery payment method is available.",
+		"pay_amount": "Amount to pay",
+		"pay_order": "Pay and Place Order",
+		"summary": "Summary",
+		"have_coupon": "Have a Coupon?",
+		"active_coupon": "View Active Coupons",
+		"total_savings": "Total savings on this order",
+		"subscription_details": "Subscription Details",
+		"delivery_quantity": "Delivery Quantity",
+		"repeat_every": "Repeat Every",
+		"start_from": "Starts From",
+		"wallet_balance": "Wallet Balance",
+		"add_wallet": "Add to Wallet"
+	},
+	"allProducts":{
+		"buy": "Buy",
+		"stock_out": "Out of stock",
+		"load_products": "Loading products..."
+	},
+	"favorites": {
+		"favorites_prod": "You do not have any favorite products"
+	},
+	"filterPopup":{
+		"express": "Express",
+		"products_only": "products only"
+	},
+	"filter":{
+		"filter_category": "Filter by Category"
+	},
+	"howToCook": {
+		"no_videos": "Sorry! We could not find any videos for you."
+	},
+	"productCuts":{
+		"select_cut": "Select your cut",
+		"gross_wt": "Gross wt. approx.",
+		"net_wt": "Net wt.",
+		"delivery_available": "delivery available",
+		"express_delivery": "Express Delivery Available"
+	},
+	"productNew":{
+		"load_product": "Loading product...",
+		"whole_product": "Price based on Whole Product / Gross Weight",
+		"buy_once": "Buy Once",
+		"my_subscription": "My Subscription",
+		"subscribe": "Subscribe",
+		"cook_video": "Watch How to Cook video",
+		"gross_wt": "Gross wt.",
+		"net_wt": "Net wt.",
+		"price_for_you": " Price for you:",
+		"sold_out": "Unfortunately this product got sold out"
+	},
+	"addressForm":{
+		"done": "Done",
+		"location": "Add your location",
+		"delivery_location": "Please add your location in map for delivery accuracy.",
+		"edit_location": "Edit your location",
+		"edit_delivery_location": "Use map to edit your location for delivery accuracy",
+		"name": "Name",
+		"mobile": "Mobile",
+		"house": "House/Flat No",
+		"block": "Block Name (optional)",
+		"building": "Building Name",
+		"street": "Street",
+		"landmark": "Landmark",
+		"pincode": "Pincode",
+		"locality": "Locality",
+		"city": "City",
+		"save_as": "Save As",
+		"home": "Home",
+		"work": "Work",
+		"other": "Other"
+	},
+	"address": {
+		"login_continue": "You need to login to continue",
+		"empty_cart": "Your shopping cart is empty.",
+		"change_address": "Change Address",
+		"select_city": "Select your city",
+		"select_emirate": "Select your emirate",
+		"nearest_locality": "Select your nearest locality",
+		"select_location": "Select your location",
+		"allow_location": "Allow your location",
+		"require_location": "We require you location to get accurate delivery address",
+		"load_address": "Addresses are loading please wait sometime...",
+		"try_later": "Please try after sometime"
+	},
+	"applyCoupon":{
+		"apply_coupon": "Apply coupon",
+		"available_coupons": "Available Coupons",
+		"apply": "apply",
+		"terms": "Terms &amp; Conditions"
+	},
+	"failure":{
+		"order_not_placed": "Sorry, order could not be placed.",
+		"order_failure": "If payment was processed and you haven't revceived an order confirmation, please contact customer care."
+	},
+	"map":{
+        "move_map": "Move the map to set the",
+	    "exact_location": "exact location",
+	    "location": "Location"
+	},
+	"ngenius":{
+		"pay_card": "Pay with card",
+		"order": "Order:",
+		"saved_cards": "saved cards",
+		"save_your_card": "Save your card securely for future use",
+		"payment_secure": "This payment is secured by"
+	},
+	"payment":{
+		"select_payment": "Select a payment method",
+		"coupon": "Coupon",
+		"apply_coupon": "Apply Coupon",
+		"active_coupon": "View active coupons",
+		"was_applied": "was applied",
+		"remove_coupon": "Remove Coupon",
+		"offer_coupon": "*Only one coupon or offer can be applied",
+		"uncheck_donate": "(Uncheck if you do not wish to donate)",
+		"donation_amount": "Enter donation amount",
+		"review_order": "You can review this order before it's final",
+		"payment": "Payment",
+		"freshtohome": "Freshtohome",
+		"aed": "AED",
+		"proceed": "PROCEED"
+	},
+	"retry":{
+		"waiting_payment_confirmation": "We are waiting for the payment confirmation",
+		"payment_not_received": "Sorry, we did not receive your payment",
+		"for_order": "for order",
+		"amount_to_pay": "Total amount to pay:",
+		"payment_processed": "If payment was processed and you haven't received an order confirmation please contact customer care OR choose an action below",
+		"confirm_your_payment": "Please wait for a few minutes while we confirm your payment",
+		"contact_customer_care": "We are sorry, we couldn't confirm your payment. Please contact customer care.",
+		"retry_payment": "Retry Payment",
+		"cash_on_delivery": "Cash on Delivery",
+		"cancel_order": "Cancel Order"
+	},
+	"searchLocality":{
+		"search_location": "Search Location",
+		"current_location": "Get Current Location"
+	},
+	"shipping":{
+		"delevery_method": "Select a Delivery Method",
+		"pickup_location": "Please select a Pickup Location"
+	},
+	"success":{
+		"thank_you": "Thank you for your purchase!",
+		"message": "You purchase is split into multiple orders and will be delivered according to the slots as below:",
+		"confirm": "You will receive an order confirmation email/sms.",
+		"personalize": "To help us personalize the names of the fish, kindly tell us your native language and native place of origin",
+		"native_language": "Native language",
+		"select": "Select",
+		"native_place": "Native place",
+		"hear_about": "How did you hear about us?",
+		"rate_us": "If you liked the experience, please rate us",
+		"download_app": "Download our app for a better experience",
+		"receive_email": "Receive products in your email",
+		"invite_friend": "Invite your friends and get {{currency}}100 off"
+	},
+	"captureImage":{
+		"upload_image": "Upload Image"
+	},
+	"orderItemCard":{
+		"order_on": "ORDERED ON",
+		"item": "ITEMS",
+		"more_item": "More Items",
+		"total_item": "TOTAL AMOUNT",
+		"order_id": "ORDER ID",
+		"payment": "PAYMENT"
+	},
+	"priceWidget":{
+		"save": "Save",
+		"1_pack": "1 pack"
+	},
+	"splitPrice":{
+		"shipping_handling": "Shipping &amp; Handling",
+		"total": "Total",
+		"payment_details": "Payment Details",
+		"storecredit": "Storecredit",
+		"freshCash": "FreshCash",
+		"online_payment": "Online Payment",
+		"amount_due": "Amount Due",
+		"refund_details": "Refund Details",
+		"storecredit_refund": "Storecredit Refund",
+		"freshcash_refund": "FreshCash Refund",
+		"online_refund": "Online Refund",
+		"total_refund": "Total Refund"
+	},
+	"subscriptionCard":{
+		"start_date": "START DATE",
+		"next_delivery": "NEXT DELIVERY ON",
+		"pause": "PAUSE",
+		"resume": "RESUME",
+		"restart": "RESTART"
+	},
+	"apartment":{
+		"building": "Apartment/Building",
+		"select_apartment": "Please select your apartment or building name",
+		"not_listed": "My apartment/building is not in the list",
+		"messages": " Please tell us your apartment and we'll try to add it as soon as possible"
+	},
+	"area":{
+		"select_area": "Please select your area:"
+	},
+	"buddyShare":{
+		"share_friend": "Share your buddy code with your friends.",
+		"share_now": "Share Now!"
+	},
+	"certificates":{
+		"chicken_certificate": "Chicken Certificate",
+		"mutton_certificate": "Mutton Certificate",
+		"fish_certificate": "Fish Certificate"
+	},
+	"city":{
+		"delivery_location": "Select delivery location",
+		"change_country": "تغيير البلد إلى",
+		"switch": "قم بالتبديل إلى اللغة الإنجليزية",
+		"uae": "UAE",
+		"india": "INDIA"
+	},
+	"contact":{
+		"reach_out": "Any queries, please reach out to us:",
+		"visit_store": "Visit a FreshToHome Retail Store near you" 
+	},
+	"expressInfo":{
+		"delivery_mesdage": "With Express delivery option, you can get your favourite products delivered to your doorstep within",
+		"2_hours": "2 hours.",
+		"limited_product": "*Currently only limited products are available for Express delivery.",
+		"available_delivery": "**Express delivery in your area is available between"
+	},
+	"faq":{
+		"load_faq": "Loading FAQs..."
+	},
+	"freshHope":{
+		"better_fresh": "'What's better than delivering fresh fish?'",
+		"fresh_hope": "Today, as we cross over 200,000 customers across India, we found the answer. It's delivering 'fresh hope'.",
+		"help": "How can you help?",
+		"message": "Simple. Every time you order from Freshtohome, you'll have the option to contribute ₹2 during checkout. It will be added to your bill and we will match your donation. It's amazing what a little hope can achieve, especially when it's fresh."
+   },
+   "issues":{
+	"issue_order": "Do you have any issues with your previous orders ?"
+	},
+	"locality":{
+		"pincode": "Please enter your pincode:",
+		"deliver_pincode": "We deliver to this pincode. To serve you better, please select the locality closest to you from the list below:",
+		"type_locality": "Please type your locality below:"
+	},
+	"login":{
+		"login_register": "Login/Register",
+		"login": "LOG IN",
+		"forgot_password": "Don't know password?",
+		"login_otp": "Login using OTP",
+		"or": "OR",
+		"reset_password": "Reset Password",
+		"new_user": "New User?",
+		"register_now": "Register Now",
+		"resend_otp": "Resend OTP on WhatsApp",
+		"login_password": "Login using password",
+		"register": "Register",
+		"accept": "By clicking the Register button you are accepting the",
+		"term": "Terms and Conditions of Freshtohome",
+		"have_account": "Already have an account?",
+		"otp_set": "An OTP has been sent to your mobile number. Please verify the OTP below.",
+		"verify_otp": "Verify OTP",
+		"go_to": "Go to Login"
+ 
+	 },
+	 "newsletter":{
+		"subscribe_newsletter": "Subscribe to our newsletter and receive available products right in your inbox.",
+		"subscribe": "Subscribe"
+	},
+	"origin": {
+		"select_native": "Select your native place of origin"
+	},
+	"rateOrder":{
+		"rate_last_order": "Rate your last order",
+		"delivery_on": "Delivered on",
+		"went_wrong": "What went wrong?",
+		"quality_issue": "Quality Issue",
+		"delivery_issue": "Delivery Issue",
+		"packaging_issue": "Packaging Issue",
+		"missing_item": "Wrong/Missing Item",
+		"improve": "What can we improve?",
+		"quality": "Quality",
+		"delivery": "Delivery",
+		"packaging": "Packaging",
+		"vegetables_crates": "Were your vegetables delivered in Crates?"
+	},
+	"shareProducts":{
+		"share_message": "Tap 'Share' button below and select people/groups to share products with on Whatsapp.",
+		"share": "Share"
+	},
+	"subscribe":{
+		"show_products": "Show selected products",
+		"please_login": "Please Login",
+		"select_favorites": "Select your favorites below and we will notify you when they are available",
+		"product_not_found": "Sorry, we could not find your product",
+		"successfully": "Successfully",
+		"cancelled": "cancelled",
+		"created": "created",
+		"subscription": "the subscription",
+		"buy_once": "Buy Once",
+		"my_subscription": "My Subscription",
+		"canel": "CANCEL",
+		"or": "or",
+		"started_on": "Started on",
+		"quantity_delivered": "Quantity delivered",
+		"quantity_remaining": "Quantity remaining",
+		"repeat": "Repeat",
+		"door_bell": "Door Bell",
+		"proceed_payment": "Proceed to Payment",
+		"cancel_subscription": "Cancel Subscription",
+		"pause_subscription": "Pause Subscription",
+		"resume_subscription": "Resume Subscription"
+	},
+	"why":{
+		"natural": "100% Fresh, 100% Natural.",
+		"compromise": "No Compromise Sourcing.",
+		"safety": "Safety Certified.",
+		"aplenty": "Choices Aplenty.",
+		"hygenic": "Efficient, Hygenic Process.",
+		"convenience": "Convenience Delivered Fresh."
+	},
+	"referral":{
+		"start_referring": "Start Referring. Start Earning!",
+		"how_work": "Here is How it Works",
+		"terms": "Terms and Conditions",
+		"no_referrals": "You don't have any referrals yet.",
+		"successfull_referral": "Woohoo! You have successfully made your first referral.",
+		"successfully_referred": "Yay! You have successfully referred",
+		"friends": "friends.",
+		"first_reward": "Your first reward is waiting for you.",
+		"next_reward": "Your next reward is waiting for you.",
+		"reffer_now": "Refer a Friend Now",
+		"referrals_history": "View My Referrals History"
+	},
+	"search":{
+		"buy": "Buy",
+		"notify_me": "Notify Me",
+		"popular_search": "Popular searches"
+	},
+	"wallet":{
+		"add_money": "Add money",
+		"five_hundred": "500",
+		"thausand": "1000",
+		"fifteen_hundred": "1500",
+		"accept": "By clicking the Confirm button you are accepting the",
+		"terms_condition": "Terms and Conditions of Freshalicious Super Bazaar Pvt Ltd"
+	},
+	"buttons":{
+		"continue": "استمر",
+		"submit": "إرسال",
+		"call_us": "اتصل بنا",
+		"write_to_us": "اكتب إلينا",
+		"track_order": "ترتيب المسار",
+		"cancel_order": "الغاء الطلب",
+		"report_issue": "قضية تقرير",
+		"view_products": "مشاهدة المنتجات",
+		"checkout": "Checkout",
+		"go_back": "Go back",
+		"clear": "Clear",
+		"search": "Search",
+		"close": "Close",
+		"add": "Add",
+		"addCapital": "ADD",
+		"show_all": "Show all products",
+		"save_address": "Save Address",
+		"login": "Login",
+		"back": "Back",
+		"edit_address": "Edit Selected Address",
+		"delete_address": "Delete Selected Address",
+		"new_address": "Add New Address",
+		"delete": "Delete",
+		"proceed": "Proceed to Checkout",
+		"apply": "APPLY",
+		"more": "+More",
+		"change": "Change",
+		"view": "View",
+		"cancel": "Cancel",
+		"enable_location": "Enable Location",
+		"not_now": "Not Now",
+		"confirm_location": "Confirm location",
+		"proceeds": "Proceed",
+		"make_payment": "make payment",
+		"view_saved_card": "View more saved cards",
+		"make_payments": "MAKE PAYMENT",
+		"yes": "Yes",
+		"no": "No",
+		"submits": "SUBMIT",
+		"update": "Update",
+		"confirm": "Confirm"
+	},
+	"commomn": {
+		"date": "تاريخ",
+		"status": "الحالة",
+		"load": "جار التحميل...",
+		"wait": "ارجوك انتظر...",
+		"show_all": "عرض الكل",
+		"view_details": "عرض التفاصيل",
+		"order": "طلب",
+		"read_more": "Read More",
+		"show_less": "Show Less",
+		"item": "item",
+		"items": "items",
+		"in_cart": "in cart",
+		"view_cart": "View Cart",
+		"no_results": "No results found",
+		"learn_more": "Learn More"
+	},
+	"footer": {
+		"FreshToHome" : "فريش تو هوم",
+		"install": "تثبيت التطبيق",
+		"installBtn": "تثبيت",
+		"need_help": "تحتاج مساعدة",
+		"cancel_order": "الغاء الطلب"
+	},
+    "directives.language-select.Language": "Language"
+}
